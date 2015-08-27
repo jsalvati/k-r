@@ -1,0 +1,2 @@
+this    is    a    test    that 
+1-9    removes    double    blanks.
